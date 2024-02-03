@@ -25,7 +25,7 @@
 
 ### Gh-page
 
-<a href="https://eeromanova.github.io/week10_11/">Page</a>
+<a href="https://olgalosikova.github.io/TravelAgency/">Page</a>
 
 ### Collaboraters
 
